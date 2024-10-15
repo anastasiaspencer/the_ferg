@@ -1,0 +1,21 @@
+[0.347s] Invoking command in '/home/anastasiaspencer/ros2_ws/the_ferg': PYTHONPATH=/home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/the_ferg build --build-base /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build install --record /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/install.log --single-version-externally-managed install_data
+[0.474s] running egg_info
+[0.475s] writing build/the_ferg/the_ferg.egg-info/PKG-INFO
+[0.475s] writing dependency_links to build/the_ferg/the_ferg.egg-info/dependency_links.txt
+[0.476s] writing entry points to build/the_ferg/the_ferg.egg-info/entry_points.txt
+[0.476s] writing requirements to build/the_ferg/the_ferg.egg-info/requires.txt
+[0.476s] writing top-level names to build/the_ferg/the_ferg.egg-info/top_level.txt
+[0.477s] reading manifest file 'build/the_ferg/the_ferg.egg-info/SOURCES.txt'
+[0.478s] writing manifest file 'build/the_ferg/the_ferg.egg-info/SOURCES.txt'
+[0.478s] running build
+[0.478s] running build_py
+[0.478s] running install
+[0.478s] running install_lib
+[0.479s] running install_data
+[0.479s] copying launch/run_webots.launch.py -> /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/share/the_ferg/launch
+[0.479s] running install_egg_info
+[0.481s] removing '/home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages/the_ferg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.482s] Copying build/the_ferg/the_ferg.egg-info to /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages/the_ferg-0.0.0-py3.10.egg-info
+[0.482s] running install_scripts
+[0.494s] writing list of installed files to '/home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/install.log'
+[0.507s] Invoked command in '/home/anastasiaspencer/ros2_ws/the_ferg' returned '0': PYTHONPATH=/home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/the_ferg build --build-base /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build install --record /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/install.log --single-version-externally-managed install_data

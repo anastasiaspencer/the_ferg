@@ -1,0 +1,32 @@
+[0.425s] Invoking command in '/home/anastasiaspencer/ros2_ws/the_ferg': PYTHONPATH=/home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/the_ferg build --build-base /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build install --record /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/install.log --single-version-externally-managed install_data
+[0.535s] running egg_info
+[0.535s] creating build/the_ferg/the_ferg.egg-info
+[0.535s] writing build/the_ferg/the_ferg.egg-info/PKG-INFO
+[0.536s] writing dependency_links to build/the_ferg/the_ferg.egg-info/dependency_links.txt
+[0.536s] writing entry points to build/the_ferg/the_ferg.egg-info/entry_points.txt
+[0.536s] writing requirements to build/the_ferg/the_ferg.egg-info/requires.txt
+[0.537s] writing top-level names to build/the_ferg/the_ferg.egg-info/top_level.txt
+[0.537s] writing manifest file 'build/the_ferg/the_ferg.egg-info/SOURCES.txt'
+[0.538s] reading manifest file 'build/the_ferg/the_ferg.egg-info/SOURCES.txt'
+[0.538s] writing manifest file 'build/the_ferg/the_ferg.egg-info/SOURCES.txt'
+[0.538s] running build
+[0.538s] running build_py
+[0.539s] creating /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build
+[0.539s] creating /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build/lib
+[0.540s] creating /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build/lib/AnastasiaSpencer
+[0.540s] copying AnastasiaSpencer/__init__.py -> /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build/lib/AnastasiaSpencer
+[0.540s] running install
+[0.540s] running install_lib
+[0.540s] creating /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages/AnastasiaSpencer
+[0.540s] copying /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build/lib/AnastasiaSpencer/__init__.py -> /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages/AnastasiaSpencer
+[0.541s] byte-compiling /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages/AnastasiaSpencer/__init__.py to __init__.cpython-310.pyc
+[0.541s] running install_data
+[0.541s] creating /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/share/the_ferg/launch
+[0.542s] copying launch/run_webots.launch.py -> /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/share/the_ferg/launch
+[0.542s] creating /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/share/the_ferg/worlds
+[0.543s] copying worlds/FirstFloorStudentCenter.wbt -> /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/share/the_ferg/worlds
+[0.545s] running install_egg_info
+[0.547s] Copying build/the_ferg/the_ferg.egg-info to /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages/the_ferg-0.0.0-py3.10.egg-info
+[0.550s] running install_scripts
+[0.560s] writing list of installed files to '/home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/install.log'
+[0.573s] Invoked command in '/home/anastasiaspencer/ros2_ws/the_ferg' returned '0': PYTHONPATH=/home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/the_ferg build --build-base /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build install --record /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/install.log --single-version-externally-managed install_data

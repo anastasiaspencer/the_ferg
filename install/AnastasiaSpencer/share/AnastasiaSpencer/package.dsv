@@ -1,0 +1,6 @@
+source;share/AnastasiaSpencer/hook/pythonpath.ps1
+source;share/AnastasiaSpencer/hook/pythonpath.dsv
+source;share/AnastasiaSpencer/hook/pythonpath.sh
+source;share/AnastasiaSpencer/hook/ament_prefix_path.ps1
+source;share/AnastasiaSpencer/hook/ament_prefix_path.dsv
+source;share/AnastasiaSpencer/hook/ament_prefix_path.sh

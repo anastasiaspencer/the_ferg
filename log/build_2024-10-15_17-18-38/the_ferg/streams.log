@@ -1,0 +1,17 @@
+[0.391s] Invoking command in '/home/anastasiaspencer/ros2_ws/the_ferg': PYTHONPATH=/home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/the_ferg build --build-base /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build install --record /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/install.log --single-version-externally-managed install_data
+[0.510s] running egg_info
+[0.510s] writing build/the_ferg/the_ferg.egg-info/PKG-INFO
+[0.510s] writing dependency_links to build/the_ferg/the_ferg.egg-info/dependency_links.txt
+[0.510s] writing entry points to build/the_ferg/the_ferg.egg-info/entry_points.txt
+[0.511s] writing requirements to build/the_ferg/the_ferg.egg-info/requires.txt
+[0.511s] writing top-level names to build/the_ferg/the_ferg.egg-info/top_level.txt
+[0.512s] reading manifest file 'build/the_ferg/the_ferg.egg-info/SOURCES.txt'
+[0.512s] writing manifest file 'build/the_ferg/the_ferg.egg-info/SOURCES.txt'
+[0.512s] running build
+[0.512s] running build_py
+[0.512s] running install
+[0.513s] running install_lib
+[0.513s] running install_data
+[0.513s] creating /home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/share/the_ferg/marker
+[0.514s] error: can't copy 'marker': doesn't exist or not a regular file
+[0.523s] Invoked command in '/home/anastasiaspencer/ros2_ws/the_ferg' returned '1': PYTHONPATH=/home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anastasiaspencer/ros2_ws/the_ferg/install/the_ferg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/the_ferg build --build-base /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/build install --record /home/anastasiaspencer/ros2_ws/the_ferg/build/the_ferg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+[0.388s] Invoking command in '/home/anastasiaspencer/ros2_ws/AnastasiaSpencer': PYTHONPATH=/home/anastasiaspencer/ros2_ws/AnastasiaSpencer/build/AnastasiaSpencer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anastasiaspencer/ros2_ws/AnastasiaSpencer/install/AnastasiaSpencer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/AnastasiaSpencer build --build-base /home/anastasiaspencer/ros2_ws/AnastasiaSpencer/build/AnastasiaSpencer/build install --record /home/anastasiaspencer/ros2_ws/AnastasiaSpencer/build/AnastasiaSpencer/install.log --single-version-externally-managed install_data
+[0.525s] running egg_info
+[0.525s] writing build/AnastasiaSpencer/AnastasiaSpencer.egg-info/PKG-INFO
+[0.525s] writing dependency_links to build/AnastasiaSpencer/AnastasiaSpencer.egg-info/dependency_links.txt
+[0.526s] writing entry points to build/AnastasiaSpencer/AnastasiaSpencer.egg-info/entry_points.txt
+[0.526s] writing requirements to build/AnastasiaSpencer/AnastasiaSpencer.egg-info/requires.txt
+[0.526s] writing top-level names to build/AnastasiaSpencer/AnastasiaSpencer.egg-info/top_level.txt
+[0.527s] reading manifest file 'build/AnastasiaSpencer/AnastasiaSpencer.egg-info/SOURCES.txt'
+[0.527s] writing manifest file 'build/AnastasiaSpencer/AnastasiaSpencer.egg-info/SOURCES.txt'
+[0.527s] running build
+[0.528s] running build_py
+[0.528s] running install
+[0.528s] running install_lib
+[0.528s] running install_data
+[0.528s] copying worlds/FirstFloorStudentCenter.wbt -> /home/anastasiaspencer/ros2_ws/AnastasiaSpencer/install/AnastasiaSpencer/share/AnastasiaSpencer/worlds
+[0.529s] running install_egg_info
+[0.530s] removing '/home/anastasiaspencer/ros2_ws/AnastasiaSpencer/install/AnastasiaSpencer/lib/python3.10/site-packages/AnastasiaSpencer-0.0.0-py3.10.egg-info' (and everything under it)
+[0.536s] Copying build/AnastasiaSpencer/AnastasiaSpencer.egg-info to /home/anastasiaspencer/ros2_ws/AnastasiaSpencer/install/AnastasiaSpencer/lib/python3.10/site-packages/AnastasiaSpencer-0.0.0-py3.10.egg-info
+[0.536s] running install_scripts
+[0.552s] writing list of installed files to '/home/anastasiaspencer/ros2_ws/AnastasiaSpencer/build/AnastasiaSpencer/install.log'
+[0.567s] Invoked command in '/home/anastasiaspencer/ros2_ws/AnastasiaSpencer' returned '0': PYTHONPATH=/home/anastasiaspencer/ros2_ws/AnastasiaSpencer/build/AnastasiaSpencer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anastasiaspencer/ros2_ws/AnastasiaSpencer/install/AnastasiaSpencer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/AnastasiaSpencer build --build-base /home/anastasiaspencer/ros2_ws/AnastasiaSpencer/build/AnastasiaSpencer/build install --record /home/anastasiaspencer/ros2_ws/AnastasiaSpencer/build/AnastasiaSpencer/install.log --single-version-externally-managed install_data
